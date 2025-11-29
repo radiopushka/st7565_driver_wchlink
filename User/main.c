@@ -3,7 +3,7 @@
 * Author             : Ivan Nikitin
 * Version            : V1.0.0
 * Date               : 2025
-* Description        : L9208A driver for sony displays
+* Description        : st7565 driver for OPEN-SMART display offof AliExpress
 *********************************************************************************
 * Copyright (c) 2021 Nanjing Qinheng Microelectronics Co., Ltd.
 * Attention: This software (modified or not) and binary are used for 
@@ -285,6 +285,7 @@ int main(void)
     }
 
 }
+
 
 
 
